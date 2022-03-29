@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Incorta ML&Data Science Document!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
