@@ -1,9 +1,9 @@
 Welcome to Incorta ML&Data Science Document!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+**Incorta** Data preparation library is for simplifying the data preparation by processing the data which was earlier handled by writing a custom Spark MV program.
+Spark DataFrame are typical inputs to and the output from the Incorta Data Preparation API
+It pulls data from the `Incorta <https://www.incorta.com//>`_
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
